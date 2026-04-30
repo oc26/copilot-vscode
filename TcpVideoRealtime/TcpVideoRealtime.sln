@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpVideoClient", "TcpVideoClient\\TcpVideoClient.csproj", "{4B711A6A-6E08-4A77-98A6-3D358EF4BB15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpVideoReceiver", "TcpVideoReceiver\\TcpVideoReceiver.csproj", "{B409A78D-36B9-4E0C-A2E0-D2A66A8EA42B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B711A6A-6E08-4A77-98A6-3D358EF4BB15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B711A6A-6E08-4A77-98A6-3D358EF4BB15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B711A6A-6E08-4A77-98A6-3D358EF4BB15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B711A6A-6E08-4A77-98A6-3D358EF4BB15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B409A78D-36B9-4E0C-A2E0-D2A66A8EA42B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B409A78D-36B9-4E0C-A2E0-D2A66A8EA42B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B409A78D-36B9-4E0C-A2E0-D2A66A8EA42B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B409A78D-36B9-4E0C-A2E0-D2A66A8EA42B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
